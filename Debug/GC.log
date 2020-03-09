@@ -1,0 +1,5 @@
+﻿  GC.cpp
+d:\c++\projects\graph coloring (genetic algorithm)\gc\gc.cpp(97): warning C4018: '<': signed/unsigned mismatch
+d:\c++\projects\graph coloring (genetic algorithm)\gc\gc.cpp(100): warning C4018: '<': signed/unsigned mismatch
+d:\c++\projects\graph coloring (genetic algorithm)\gc\gc.cpp(124): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GC.vcxproj -> D:\C++\Projects\Graph Coloring (genetic algorithm)\GC\Debug\GC.exe
